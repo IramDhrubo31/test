@@ -1,3 +1,7 @@
-.youngObama{
+.container{
+    display: flex;
+}
+
+.aboutme{
     display: flex;
 }
